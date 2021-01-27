@@ -2,11 +2,10 @@
 
 This is a template for creating Micro-Frontend Applications with single-spa for Freshworks.
 
-[![CircleCI](https://circleci.com/gh/react-microfrontends/planets.svg?style=svg)](https://circleci.com/gh/react-microfrontends/planets)
 
 ## What is this?
 
-This is an example microfrontend repo demonstrating how to use [single-spa](https://single-spa.js.org). You can see the code running at https://react.microfrontends.app.
+This is a starter template for creating Micro-Frontend applications using React demonstrating how to use [single-spa](https://single-spa.js.org). 
 
 ## How does it work?
 
@@ -66,6 +65,3 @@ pnpm start
 
 Now follow the steps above for "One module at a time" for each of the modules you wish to work on.
 
-## Adapting for your organization
-
-Feel free to fork and modify any files you would like when doing a proof of concept for your organization. When it's time to actually create / adapt your organization's projects, consider using [create-single-spa](https://single-spa.js.org/docs/create-single-spa) instead of forking this repository.
