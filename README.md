@@ -1,6 +1,6 @@
-# planets
+# Freshworks Micro-Frontend Application
 
-The microfrontend for showing planets
+This is a template for creating Micro-Frontend Applications with single-spa for Freshworks.
 
 [![CircleCI](https://circleci.com/gh/react-microfrontends/planets.svg?style=svg)](https://circleci.com/gh/react-microfrontends/planets)
 
